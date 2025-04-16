@@ -1,0 +1,6 @@
+.container{
+    height: 100vh;
+    background-color: #dcdcdc62;
+    display: grid;
+    grid-template-columns: 25rem auto;
+}
